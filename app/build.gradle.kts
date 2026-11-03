@@ -33,8 +33,8 @@ android {
         applicationId = "io.github.waltoncomonline.samsungmimh02"
         minSdk = 26
         targetSdk = 36
-        versionCode = 33
-        versionName = "3.3"
+        versionCode = 34
+        versionName = "3.4"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }

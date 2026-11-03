@@ -1,5 +1,10 @@
 # Changelog
 
+## 3.4 - 2026-11-03
+
+- Add a blue/teal adaptive launcher icon featuring an air conditioner and Wi-Fi.
+- Support themed launcher icons on Android 13 and newer.
+
 ## 3.3 - 2026-10-18
 
 Initial release.
